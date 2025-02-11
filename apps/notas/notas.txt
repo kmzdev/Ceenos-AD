@@ -1,0 +1,2 @@
+Adicionar multitarefas
+Impedir que janelas desaparecam com sem usar grab set

@@ -1,0 +1,1 @@
+self.text_area.get()self.text_area.get()hhhhhhhhhhhhhhh
